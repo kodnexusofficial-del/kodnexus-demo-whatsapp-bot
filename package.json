@@ -1,17 +1,17 @@
-﻿{
-  "name": "kodnexus-whatsapp-bot-demo",
-  "version": "1.0.1",
-  "private": true,
-  "scripts": {
-    "start": "node server.js",
-    "dev": "node server.js"
-  },
-  "dependencies": {
-    "@google/genai": "^1.0.0",
-    "dotenv": "^16.4.7",
-    "express": "^5.1.0"
-  },
-  "engines": {
-    "node": ">=20"
-  }
+{
+    "name":  "kodnexus-whatsapp-bot-demo",
+    "version":  "1.0.2",
+    "private":  true,
+    "scripts":  {
+                    "start":  "node server.js",
+                    "dev":  "node server.js"
+                },
+    "dependencies":  {
+                         "@google/genai":  "^1.0.0",
+                         "dotenv":  "^16.4.7",
+                         "express":  "^5.1.0"
+                     },
+    "engines":  {
+                    "node":  "\u003e=20"
+                }
 }
